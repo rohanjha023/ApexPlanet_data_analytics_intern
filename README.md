@@ -16,6 +16,18 @@ Hi! I'm **Rohan Kumar**, an MCA student passionate about **Data Analytics & Data
 This repository is my complete end-to-end internship portfolio at **ApexPlanet**, covering real-world data projects.
 
 ---
+## 👨‍💻 About Me
+
+Hey! I'm **Rohan Kumar**, an MCA student passionate about transforming raw data into meaningful business insights.
+
+- 🎓 **Education:** MCA (Master of Computer Applications)
+- 💼 **Internship:** Data Analyst Intern @ ApexPlanet Software Pvt. Ltd.
+- 🌱 **Currently Learning:** Advanced SQL, Machine Learning, Data Engineering
+- 💡 **Interested In:** Data Analytics, Business Intelligence, Data Engineering
+- 📍 **Location:** India
+
+> *"Data is the new oil — but only if you know how to refine it!"*
+---
 
 ## 🗂️ Tasks Overview
 
