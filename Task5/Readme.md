@@ -16,13 +16,24 @@ demonstrating a complete and masterful end-to-end data analytics project.
 - Reviewed all repositories for consistency and clarity
 - Drafted LinkedIn post summarizing internship experience
 
+## 🔗 Task Links
+
+| # | Task | Link |
+|---|------|------|
+| 1 | Data Immersion & Wrangling | [📁 Task 1](https://github.com/rohanjha023/Rohan-DataAnalyst-Internship-Portfolio/tree/main/Task1) |
+| 2 | EDA & Business Intelligence | [📁 Task 2](https://github.com/rohanjha023/Rohan-DataAnalyst-Internship-Portfolio/tree/main/Task2) |
+| 3 | Deep-Dive & Dashboarding | [📁 Task 3](https://github.com/rohanjha023/Rohan-DataAnalyst-Internship-Portfolio/tree/main/Task3) |
+| 4 | Storytelling & Statistics | [📁 Task 4](https://github.com/rohanjha023/Rohan-DataAnalyst-Internship-Portfolio/tree/main/Task4) |
+
 ## 📁 Files in this folder
+
 | File | Description |
 |------|-------------|
 | `README.md` | Task 5 summary and reflection |
 | `linkedin_post.txt` | LinkedIn post drafted for internship completion |
 
 ## 🛠️ Skills Demonstrated Across All Tasks
+
 | Skill | Task |
 |-------|------|
 | Data Cleaning & Wrangling | Task 1 |
@@ -41,5 +52,9 @@ demonstrating a complete and masterful end-to-end data analytics project.
 ## 🔗 Portfolio Link
 [View Master Portfolio](https://github.com/rohanjha023/Rohan-DataAnalyst-Internship-Portfolio)
 
+## 🌐 Live Website
+[View GitHub Pages Site](https://rohanjha023.github.io/Rohan-DataAnalyst-Internship-Portfolio/)
+
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanjha023/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanjha023)
